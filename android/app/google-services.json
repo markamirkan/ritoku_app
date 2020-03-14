@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561727852706",
+    "firebase_url": "https://ritoku-bf7f2.firebaseio.com",
+    "project_id": "ritoku-bf7f2",
+    "storage_bucket": "ritoku-bf7f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561727852706:android:264b69915019da5e5d07fb",
+        "android_client_info": {
+          "package_name": "jar.peanutbutter.ritoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561727852706-e0ehrridnr9i56d5nb9g7nt30oo4qs9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jar.peanutbutter.ritoku",
+            "certificate_hash": "fd8fe42b00b56d1d4a946bc2edeb0fb6750ee032"
+          }
+        },
+        {
+          "client_id": "561727852706-b88ctuvqhr8r93f3s7jp63tj4insnh59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP0nB2z1kqOFVmRCDdYthlKuirKWrHJyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561727852706-b88ctuvqhr8r93f3s7jp63tj4insnh59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
